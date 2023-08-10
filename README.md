@@ -25,6 +25,6 @@
 </div>
 
 
-![Snake animation](https://github.com/Glaucia-Silva/Glaucia-Silva/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Glaucia-Silva/Glaucia-Silva/bold/output/github-contribution-grid-snake.svg)
           
           
